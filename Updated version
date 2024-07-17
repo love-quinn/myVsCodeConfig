@@ -18,5 +18,7 @@
   "editor.minimap.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "css.lint.unknownAtRules": "ignore",
+  "git.autofetch": true,
 }
